@@ -1,5 +1,5 @@
 # PROYECTO PUBG
-### Integrantes
+## Integrantes
 Miguel Ángel Restrepo Patiño
 
 C.C. 1010141951
