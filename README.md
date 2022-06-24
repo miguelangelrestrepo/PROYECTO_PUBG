@@ -1,11 +1,11 @@
 # PROYECTO PUBG
 
 ## Integrantes
--Miguel Ángel Restrepo Patiño
+- Miguel Ángel Restrepo Patiño
 
- C.C. 1010141951
+  C.C. 1010141951
 
- Matriculado en Ingeniería Civil
+  Matriculado en Ingeniería Civil
 
 ## Datos
 Los datos del proyecto provienen de la [Predicción de ubicación final de PUBG (solo núcleos)](https://www.kaggle.com/competitions/pubg-finish-placement-prediction/overview). 
