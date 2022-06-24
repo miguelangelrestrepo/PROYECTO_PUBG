@@ -9,5 +9,5 @@
 Los datos del proyecto provienen de la [Predicción de ubicación final de PUBG (solo núcleos)](https://www.kaggle.com/competitions/pubg-finish-placement-prediction/overview). 
 Estos datos se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comando: 
 
-## Enlace
+## Enlace_Datos
 https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data
