@@ -6,6 +6,12 @@
   C.C. 1010141951
 
   Matriculado en Ingeniería Civil
+  
+- Andrés Ortega Sierra
+  
+  C.C. 1003293339
+  
+  Matriculado en Ingeniería Industrial
 
 ## Datos
 Los datos del proyecto provienen de la [Predicción de ubicación final de PUBG (solo núcleos)](https://www.kaggle.com/competitions/pubg-finish-placement-prediction/overview). 
