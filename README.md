@@ -19,3 +19,6 @@ Estos datos se pueden hacer disponibles ejecutando desde cualquier notebook en C
 
 ## Enlace_Datos
 https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data
+
+## Video Entrega 2
+https://www.youtube.com/watch?v=cPnnSyjZZ5s
