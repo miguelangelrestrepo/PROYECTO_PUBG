@@ -24,4 +24,4 @@ https://www.kaggle.com/competitions/pubg-finish-placement-prediction/data
 https://www.youtube.com/watch?v=cPnnSyjZZ5s
 
 ## Video Entrega Final 
-https://www.youtube.com/watch?v=cPjkjsnwbiw5
+https://www.youtube.com/watch?v=rhVy2vI7p_4
